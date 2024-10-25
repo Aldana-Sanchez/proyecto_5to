@@ -6,6 +6,22 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<header>
+        <h1>Delicias Caseras</h1>
+        <p>Recetas fáciles para todos los gustos</p>
+    </header>
+
+    <nav>
+        <a href="">Inicio</a>
+        <a href="">Contacto</a>
+    </nav>
+
+    <section>
+        <h1>Recetas Populares</h1>
+        <div class="recipe">
+            <img src="" alt="Pasta Carbonara">
+            <div class="recipe-details">
+                <h2>Pasta Carbonara</h2>
 <p>Disfruta de estas deliciosas pasta italiana hecha con ingredientes frescos y sensillos.Perfecta para una cena rapida</p>
 <h3>Ingredientes</h3>
 <ul>
