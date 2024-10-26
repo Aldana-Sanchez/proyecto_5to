@@ -38,4 +38,24 @@ Por otro lado, en un bol batimos las yemas de los dos huevos e incorporamos el q
 <a href="https://www.directoalpaladar.com/recetas-de-pasta/salsa-carbonara-receta-tradiconal">Ver receta completa</a>
    </div>
 </div>
+        <div class="recipe">
+            <img src="imagenes/tacos.jpg" alt="Tacos Mexicanos">
+            <div class="recipe-details">
+                <h2>Tacos Mexicanos</h2>
+                <p>Una receta tradicional de tacos mexicanos con tortillas caseras, carne marinada y una salsa picante única.</p>
+                <h3>Ingredientes</h3>
+                <ul>
+                    <li>250 grs de carne: puede ser peceto, nalga, la que más te guste.</li>
+                    <li>1 cebolla morada mediana</li>
+                    <li>1 chile fresco (opcional)</li>
+                    <li>1/2 pimiento o morrón rojo</li>
+                    <li>Jugo de 1 lima o limón</li>
+                    <li>1 tomate mediano</li>
+                    <li>Orégano</li>
+                    <li>Chile seco (a gusto)</li>
+                    <li>Sal y pimienta</li>
+                    <li>Cilantro</li>
+                    <li>Aceite neutro</li>
+                </ul>
+                <h3>Pasos a seguir:</h3>
 </body>
