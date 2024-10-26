@@ -17,7 +17,12 @@
     </nav>
 
     <section>
-        <h1>Recetas Populares</h1>
+    <img src="imagenes/plato.jpg" class="imagen-bailarina-1" alt="Imagen que baila">
+        <header>
+            <h1>Recetas populares </h1>
+            <div class="logo-container">
+            </div>
+        </header>
         <div class="recipe">
             <img src="" alt="Pasta Carbonara">
             <div class="recipe-details">
