@@ -35,3 +35,19 @@ footer {
     width: 100%;
     bottom: 0;
 }
+.imagen-bailarina-1 {
+    position: absolute;      
+    width: 100px;            
+    top: 250px;                
+    left: 200px;             
+    animation: bailar 2s infinite ease-in-out;
+}
+
+
+@keyframes bailar {
+    0% { transform: translateX(0) rotate(0deg) scale(1); }
+    25% { transform: translateX(10px) rotate(10deg) scale(1.1); }
+    50% { transform: translateX(-10px) rotate(-10deg) scale(1); }
+    75% { transform: translateX(10px) rotate(10deg) scale(0.9); }
+    100% { transform: translateX(0) rotate(0deg) scale(1);}
+}
