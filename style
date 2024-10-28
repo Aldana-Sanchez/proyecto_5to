@@ -78,6 +78,13 @@ footer {
     animation: bailar 2s infinite ease-in-out;
 }
 
+.imagen-bailarina-2 {
+    position: absolute;       
+    width: 100px;            
+    top: 4530px;                
+    left: 200px;             
+    animation: bailar 3s infinite ease-in-out;
+}
 
 @keyframes bailar {
     0% { transform: translateX(0) rotate(0deg) scale(1); }
