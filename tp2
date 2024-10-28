@@ -246,4 +246,12 @@ Por otro lado, en un bol batimos las yemas de los dos huevos e incorporamos el q
                 <a href="https://elcoctelero.com/sexo-en-la-playa/">Ver receta completa</a>
             </div>
         </div>
+        <div class="recipe">
+            <img src="imagenes/fm.jpg" alt="French Martini">
+            <div class="recipe-details">
+                <h2>French Martini</h2>
+                <p>Con un aspecto sofisticado y un sabor afrutado irresistible, el French Martini es un combinado indispensable para cualquier amante de la coctelería.</p>
+                <h3>Ingredientes</h3>
+                <ul>
+                    <li>Vodka</li>
 </body>
