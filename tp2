@@ -205,4 +205,23 @@ Por otro lado, en un bol batimos las yemas de los dos huevos e incorporamos el q
                      <li>Lemon pie  la mejor convinacion de agrio y dulce</li>
                     </ul>
                     <h4>Ingredientes</h4>
+
+ <div class="recipe">
+            <img src="imagenes/sob.jpg" alt="sex on the beach">
+            <div class="recipe-details">
+                <h2>Sex on the beach</h2>
+                <p>El cóctel Sex on the Beach es una mezcla refrescante y veraniega.</p>
+                <h3>Ingredientes</h3>
+                <ul>
+                    <li>Vodka</li>
+                    <li>Licor de melocotón</li>
+                    <li>Zumo de naranja</li>
+                    <li>Zumo de arándanos</li>
+                    <li>Hielos</li>
+                </ul>
+                <h4>Pasos a seguir: </h4>
+                <p>Primero exprime zumo de arándanos y cuélalo. Haz lo mismo con la naranja, llena un vaso con hielos. Introduce la medida de vodka y de licor de melocotón. Añade el zumo de arándanos y posteriormente el zumo de naranja. Decora con una rodaja de naranja y algún fruto rojo como una guinda, cereza o fresa.</p>
+                <a href="https://elcoctelero.com/sexo-en-la-playa/">Ver receta completa</a>
+            </div>
+        </div>
 </body>
