@@ -76,6 +76,13 @@ footer {
     width: 100%;
     bottom: 0;
 }
+.imagen-bailarina {
+    position: absolute;      
+    width: 100px;             
+    top: 2590px;               
+    left: 200px;               
+    animation: bailar 2s infinite ease-in-out;
+}
 .imagen-bailarina-1 {
     position: absolute;      
     width: 100px;            
