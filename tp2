@@ -7,7 +7,7 @@
 </head>
 <body>
 <header>
-        <h1>Delicias Caseras</h1>
+        <h1class="texto-grande">Delicias Caseras</h1>
         <p>Recetas fáciles para todos los gustos</p>
     </header>
 
@@ -19,7 +19,7 @@
     <section>
     <img src="imagenes/plato.jpg" class="imagen-bailarina-1" alt="Imagen que baila">
         <header>
-            <h1>Recetas populares </h1>
+            <h1 class="texto-grandee">Recetas populares </h1>
             <div class="logo-container">
             </div>
         </header>
@@ -122,7 +122,7 @@ Por otro lado, en un bol batimos las yemas de los dos huevos e incorporamos el q
 </div>
 <img src="imagenes/OIP (1).jpg" class="imagen-bailarina" alt="Imagen que baila">
                <header>
-                <h1>Postres </h1>
+                <h1 class="texto-grandee">Postres </h1>
                 <div class="logo-container">
                 </div>
             
@@ -228,6 +228,22 @@ Por otro lado, en un bol batimos las yemas de los dos huevos e incorporamos el q
                             <li>azucar</li>
                             <li>sal</li>
                         </ul>
+                                <h4>Pasos a seguir</h4>
+                                <p> Masa</p>
+                                 <p>Frotar la harina con la manteca hasta obtener una preparación arenosa.  Batir el azúcar impalpable con los huevos y la esencia.
+                                    Incorporar a la preparación anterior y unir rápidamente sin amasar.
+                                    Llevar a frío y dejar descansar.
+                                    Estirar y fonzar un molde de tarta</p>
+                                    <a href="https://elgourmet.com/recetas/lemon-pie-clasico/">Ver receta completa</a>
+                               </div>
+                    </div>
+                    <img src="imagenes/trago.jpg" class="imagen-bailarina-2" alt="Imagen que baila-2">
+                    <header>
+                        <h1 class="texto-grandee">Tragos </h1>
+                        <div class="logo-container">
+                        </div>
+                    
+                    </header>
  <div class="recipe">
             <img src="imagenes/sob.jpg" alt="sex on the beach">
             <div class="recipe-details">
