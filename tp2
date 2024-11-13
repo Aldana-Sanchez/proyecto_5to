@@ -12,14 +12,15 @@
     </header>
 
     <nav>
-        <a href="">Inicio</a>
-        <a href="">Contacto</a>
+        <a href="#seccion1">Recetas populares</a>
+        <a href="#seccion2">Postres</a>
+        <a href="#seccion3">Tragos</a>
     </nav>
 
     <section>
     <img src="imagenes/plato.jpg" class="imagen-bailarina-1" alt="Imagen que baila">
         <header>
-            <h1 class="texto-grandee">Recetas populares </h1>
+            <h1 class="texto-grandee" id="seccion1">Recetas populares </h1>
             <div class="logo-container">
             </div>
         </header>
@@ -122,7 +123,7 @@ Por otro lado, en un bol batimos las yemas de los dos huevos e incorporamos el q
 </div>
 <img src="imagenes/OIP (1).jpg" class="imagen-bailarina" alt="Imagen que baila">
                <header>
-                <h1 class="texto-grandee">Postres </h1>
+                <h1 class="texto-grandee" id="seccion2">Postres </h1>
                 <div class="logo-container">
                 </div>
             
@@ -262,7 +263,7 @@ Por otro lado, en un bol batimos las yemas de los dos huevos e incorporamos el q
                     </div>
                     <img src="imagenes/trago.jpg" class="imagen-bailarina-2" alt="Imagen que baila-2">
                     <header>
-                        <h1 class="texto-grandee">Tragos </h1>
+                        <h1 class="texto-grandee" id="seccion3">Tragos </h1>
                         <div class="logo-container">
                         </div>
                     
