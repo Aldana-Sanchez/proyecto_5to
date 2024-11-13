@@ -78,6 +78,17 @@ Por otro lado, en un bol batimos las yemas de los dos huevos e incorporamos el q
             </div>
         </div>
 <div class="recipe">
+            <img src="pizza.jpg" alt="Pizzas">
+            <div class="recipe-details">
+                <h2>Pizza</h2>
+                <p>Una comida facil y rapida pero igualmente deliciosa</p>
+                <h3>Ingredientes</h3>
+                <ul>
+                    <li>Harina</li>
+                    <li>Miel</li>
+                    <li>Aceite de oliva</li>
+                    <li>Levadura</li>
+<div class="recipe">
             <img src="imagenes/istockphoto-161170090-612x612.jpg" alt="Pancakes">
             <div class="recipe-details">
                 <h2>Pancakes Esponjosos</h2>
