@@ -298,4 +298,24 @@ Por otro lado, en un bol batimos las yemas de los dos huevos e incorporamos el q
                     <li>Zumo de piña</li>
                     <li>Hielo</li>
                     <li>Corteza de limón</li>
+<div class="recipe">
+    <img src="imagenes/juleep.jpeg" alt="Julep">
+    <div class="recipe-details">
+        <h2>Cynar Julep</h2>
+        <p>Bitter, pomelo y menta son las bases de esta delicioso mix. Intenso, tiene el amargo justo para no empalagar, el cítrico para refrescar y la menta para el largo en boca.</p>
+        <h3>Ingredientes</h3>
+        <ul>
+            <li>15 ml de jugo de limón</li>
+            <li>1 cucharada de azucar negra</li>
+            <li>45 ml de Cynar70</li>
+            <li>jugo de pomelo,cantidad necesaria</li>
+            <li>hojas de menta,cantidad necesaria</li>
+            <li>hielo</li>
+        </ul>
+        <h4>Pasos a seguir:</h4>
+        <p>Colocar la menta, el jugo de limón y el azúcar negra en un trago de trago largo y Machacar. Agregamos hielo y el Cynar y revolvemos. Sumar el jugo de pomelo, decorar con unas hojitas de menta y servir.</p>
+        <a href="https://www.clarin.com/recetas/bebidas/receta-de-cynar-julep_7_Zm3hl74fgC.html?srsltid=AfmBOoqhlsO-x0IymjiAy24Fy6qh8pj7GW4CtOpEYyHtQHtsip26qWvG">Ver receta completa</a>
+        </div>
+</div>
+
 </body>
