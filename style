@@ -189,3 +189,25 @@ body{background:  url(imagenes/fondo.jpg) fixed;
     text-align: center;
     margin: 20px 0;
 }
+ .formulario-comentarios button:hover {
+    background-color: #a0522d;
+  }
+
+  .lista-comentarios {
+    margin-top: 20px;
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .comentario {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: #fff;
+  }
+
+  .comentario strong {
+    color: #8b4513;
+  }
+
