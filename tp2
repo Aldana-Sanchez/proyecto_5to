@@ -17,6 +17,19 @@
         <a href="#seccion2">Postres</a>
         <a href="#seccion3">Tragos</a>
     </nav>
+<div class="buscador">
+        <h2>Buscar Recetas</h2>
+        <input type="text" id="campo-busqueda" placeholder="Busca una receta...">
+      </div>
+       <div class="cuadro-presentacion">
+        <h1>Bienvenidos a Delicias Caseras</h1>
+        <p>
+          Aquí encontrarás un rincón dedicado al amor por la cocina hecha en casa, donde cada receta está pensada para llenar de sabor y tradición cada comida. Desde los platos más sencillos hasta las recetas que llevan un toque especial, queremos inspirarte a cocinar con ingredientes frescos y a descubrir nuevas formas de disfrutar los sabores de siempre.
+        </p>
+        <p>
+          En <strong>Delicias Caseras</strong>, creemos que la buena comida no solo se trata de ingredientes, sino de compartir momentos y crear recuerdos en cada plato. Explora nuestras recetas, perfectas para cualquier ocasión, y anímate a sorprender a tus seres queridos o darte un gusto. ¡La cocina es el corazón del hogar, y juntos vamos a llenarlo de deliciosas experiencias!
+        </p>
+      </div>
 
     <section>
  
