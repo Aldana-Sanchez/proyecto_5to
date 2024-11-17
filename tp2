@@ -370,6 +370,16 @@ Por otro lado, en un bol batimos las yemas de los dos huevos e incorporamos el q
           <button type="submit">Enviar</button>
         </form>
       </div>
+<div class="comentarios-container">
+        <h2>Comentarios</h2>
+        <form class="formulario-comentarios" id="formulario-comentarios">
+          <input type="text" id="nombre" placeholder="Tu nombre" required>
+          <textarea id="comentario" placeholder="Escribe tu comentario" rows="4" required></textarea>
+          <button type="submit">Enviar</button>
+        </form>
+      
+        <ul class="lista-comentarios" id="lista-comentarios"></ul>
+      </div>
 <footer>
     <p>Delicias Caseras &copy; 2024 - Todos los derechos reservados</p>
 </footer>
