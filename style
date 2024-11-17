@@ -218,4 +218,17 @@ body{background:  url(imagenes/fondo.jpg) fixed;
   .comentario strong {
     color: #8b4513;
   }
+.cuadro-presentacion h1 {
+    font-size: 28px;
+    color: #d2691e;
+    margin-bottom: 10px;
+  }
 
+  .cuadro-presentacion p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+
+  .buscador {
+    max-width: 400px;
+    margin: 20px auto;
